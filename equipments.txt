@@ -1,0 +1,13 @@
+ Arduino Uno - https://bit.ly/2Fz8M4q
+2) Motor Driver Shield - https://bit.ly/2VWaYsn
+3) Wheels (4x) - https://bit.ly/2suQJEY
+4) TT Gear Motor (4x) - https://bit.ly/2Rtg2G9
+5) Infrared Sensor - http://bit.ly/2k70nNi
+6) 18650 Li-on Battery (2x) - https://bit.ly/2CZabQ7
+7) 18650 Battery Holder - https://bit.ly/2sulLwu
+8)  Female Jumper wire - 
+9) Acrylic Sheet - (Offline Store)
+10) DC Power Switch - https://bit.ly/2FtyEzs
+
+
+https://www.youtube.com/watch?v=t7k9D1jDEtk
